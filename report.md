@@ -4,7 +4,7 @@
 
 **Course:** Advanced Python (ICS0019)
 
-**Team members:** Marten Pitsner, Henrik Julius Tarand
+**Team members:** Marten Pitsner, Julius Henrik Tarand
 
 **Date:** 24.05.2026
 
