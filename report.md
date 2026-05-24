@@ -8,7 +8,7 @@
 
 **Date:** 24.05.2026
 
-Repository link: [GitHub, GitLab or other **public** online repository]
+Repository link: [[GitHub, GitLab or other **public** online repository]](https://github.com/mpitsner/ml-assignment)
 
 ---
 
